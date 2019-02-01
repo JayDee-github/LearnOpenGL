@@ -10,6 +10,17 @@ Implementation details are outlined in the repo's wiki:
 
 [LearnOpenGL wiki](https://github.com/JayDee-github/LearnOpenGL/wiki)
 
+## Table of Contents
+* [Getting started](##Getting-started)
+  * [Requirements](###Requirements)
+  * [Installation](###Installation)
+* [Solution overview](##Solution-overview)
+* [Running implementations](##Running-implementations)
+* [Interfacing with implementations](##Interfacing-with-implementations)
+  * [Exiting](###Exiting)
+  * [Movement](###Movement)
+  * [Graphical manipulations](###Graphical-manipulations)
+
 ## Getting started
 
 ### Requirements
