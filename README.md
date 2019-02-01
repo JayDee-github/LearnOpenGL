@@ -6,8 +6,7 @@ The exercises are implemented as individual VS projects within the solution.
 
 Some of the implementations closely follow the site's example code, while others make more dramatic changes.
 
-Implementation details are outlined in the repo's wiki:
-
+Implementation details are outlined in the repo's wiki:\
 [LearnOpenGL wiki](https://github.com/JayDee-github/LearnOpenGL/wiki)
 
 ## Table of Contents
@@ -75,6 +74,5 @@ The movement key-bindings follow an FPS-style scheme:
 ### Graphical manipulations
 The numeric keys **0-9** are used to toggle implementation specific graphical functions.
 
-Visit the project's related wiki page for supported binding details:
-
+Visit the project's related wiki page for supported binding details:\
 [LearnOpenGL wiki](https://github.com/JayDee-github/LearnOpenGL.wiki)
