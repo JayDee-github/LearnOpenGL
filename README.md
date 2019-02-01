@@ -48,7 +48,7 @@ Before running an implementation, you must set its VS Project as the solution's 
 The Project you wish to run is now set as the solution's Startup Project.
 * Press **F5** to run the implementation.
 
-## Interfacing with the implementations
+## Interfacing with implementations
 
 ### Exiting
 Press the **ESC** key to exit the implementation.
