@@ -19,7 +19,7 @@ Implementation details are outlined in the repo's wiki:
 * [Interfacing with implementations](#interfacing-with-implementations)
   * [Exiting](#exiting)
   * [Movement](#movement)
-  * [Graphical manipulations](graphical-manipulations)
+  * [Graphical manipulations](#graphical-manipulations)
 
 ## Getting started
 
