@@ -27,8 +27,6 @@ Implementation details are outlined in the repo's wiki:\
 * OpenGL 3.3 compatible system
 * Visual Studio 2017
 
-  (Other versions of VS may work but have not been tested)
-
 ### Installation
 1. Clone the repo
 2. Open the Visual Studio solution file:
